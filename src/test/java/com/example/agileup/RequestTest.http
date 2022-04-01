@@ -1,0 +1,12 @@
+POST localhost:8081/personne/inscription
+Content-Type: application/json
+
+{
+  "nom": 999,
+  "prenom": "",
+  "matricule": "25411",
+  "telephone": 92652461,
+  "mail": "mabrouki552@gmail.com",
+  "role": "ADMIN",
+  "motdepasse": "Freefallaga123"
+}
